@@ -1,0 +1,9 @@
+.title {
+  display: flex;
+  justify-content: center;
+}
+
+.red {
+  color: red;
+  border: solid 1px blue;
+}
